@@ -14,3 +14,7 @@ Project is under development, check back later.
 
 - 1.0: Stable Public Network
 - 2.0: DoltVM & Smart Contracts
+
+## Copyright
+
+Copyright (c) 2025 [Shitcoin Society](https://www.shitcoinsociety.com)
